@@ -141,7 +141,7 @@ const FormalInvite = () => {
             <h3 className="text-4xl md:text-5xl font-great-vibes text-primary mb-3">Harsha KP</h3>
             <p className="font-cinzel text-xs tracking-widest text-text-muted mb-2 uppercase">Daughter Of</p>
             <p className="font-inter font-medium text-sm text-primary mb-1">Mr. Abdul Latheef KP & Mrs. Sameera</p>
-            <p className="font-inter text-xs text-text-muted italic mt-1">Kavungha Parambil(H), Mavumkunnu, Tirur</p>
+            <p className="font-inter text-xs text-text-muted italic mt-1">KavungaParambil(H), Mavumkunnu, Tirur</p>
           </div>
         </div>
         
