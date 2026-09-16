@@ -154,7 +154,8 @@ const FormalInvite = () => {
           
           <div className="text-center">
             <p className="font-cinzel text-xs tracking-[0.2em] text-primary uppercase mb-2">Venue</p>
-            <p className="font-inter font-medium text-sm mb-1 uppercase">KR Auditorium BP Anghadi</p>
+            <p className="font-inter font-medium text-sm uppercase">KR Auditorium</p>
+            <p className="font-inter text-xs text-text-muted uppercase mt-1">BP Anghadi</p>
           </div>
         </div>
       </div>
@@ -217,7 +218,10 @@ const Events = () => {
             <div className="space-y-3 font-inter text-sm mb-8">
               <p className="text-primary font-medium tracking-widest uppercase">27 September 2026</p>
               <p className="text-text-muted">11:00 AM Onwards</p>
-              <p className="text-text-muted">KR AUDITORIUM BP ANGHADI</p>
+              <p className="text-text-muted">
+                KR AUDITORIUM<br />
+                BP ANGHADI
+              </p>
             </div>
             <a 
               href="https://maps.app.goo.gl/EKVELjqQcZakQo7T8" 
