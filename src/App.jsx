@@ -328,15 +328,6 @@ function App() {
         )}
       </AnimatePresence>
 
-      <button 
-        onClick={() => setIsPlaying(!isPlaying)}
-        className="fixed bottom-6 left-6 z-40 w-12 h-12 rounded-full border border-secondary flex items-center justify-center bg-surface/80 backdrop-blur text-primary hover:bg-primary hover:text-surface transition-all duration-300 shadow-lg group"
-      >
-        <Music size={18} className={isPlaying ? "animate-pulse" : ""} />
-        <span className="absolute left-14 opacity-0 group-hover:opacity-100 transition-opacity font-cinzel text-xs whitespace-nowrap bg-surface px-2 py-1 border border-secondary rounded">
-          {isPlaying ? "Pause Music" : "Play Music"}
-        </span>
-      </button>
 
       {!showSplash && (
         <AnimatePresence mode="wait">
