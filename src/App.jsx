@@ -155,7 +155,6 @@ const FormalInvite = () => {
           <div className="text-center">
             <p className="font-cinzel text-xs tracking-[0.2em] text-primary uppercase mb-2">Venue</p>
             <p className="font-inter font-medium text-sm mb-1 uppercase">KR Auditorium BP Anghadi</p>
-            <p className="font-inter text-xs text-text-muted">Pookayil</p>
           </div>
         </div>
       </div>
