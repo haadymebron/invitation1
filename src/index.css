@@ -57,7 +57,7 @@
   height: 1px;
   background: linear-gradient(90deg, transparent 0%, var(--color-secondary) 50%, transparent 100%);
   width: 100%;
-  margin: 2rem 0;
+  margin: 2rem auto;
   position: relative;
 }
 .gold-divider::after {
